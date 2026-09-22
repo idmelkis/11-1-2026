@@ -4,4 +4,4 @@ drawio failus var atvērt izmantojot http://draw.io vietni vai Visual Studio Cod
 
 ## Tēmas
 ### 1. Semestris
-1.,2. - Pitona pamati  
+1.,2.,3. - Pitona pamati  
